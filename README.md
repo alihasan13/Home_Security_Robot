@@ -16,3 +16,4 @@ The core part of this robot is Microwave sensor which works according to Doppler
 10. Pre Amplifier
 
 <h3>Picture: </h3>
+<img src="images/project_pic.jpg">
